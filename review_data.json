@@ -1,0 +1,24 @@
+{
+  "reviews":
+            [
+              {
+                  "name": "liddle",
+                  "updated": "2013-01-03T09:09:09",
+                  "recommendations":
+                  [ "New store with a big choice of products and freshly baked bread and pastry",
+                    "Nice shop, bright, spacious and good selection of cheaper food and drinks.",
+                    "Customer toilet which is accessible available nearby check out area."]
+              },
+
+              {
+                    "name": "waaalmaarttt",
+                    "updated": "2012-01-12T19:22:00",
+                    "recommendations":
+                    [
+                      "The layout of this store was recently ruined but a re-design.  The staff is friendly.  The lunch bar leaves something to be desired but they do have a decent cheese selection.  The store isles are now very crowded since the redesign and some of the stuff is difficult to find.  It seems like a lot of Kroger stores are getting redesigned and not for the better.",
+                      "Need groceries or household items in a hurry - then go here.  It's a quick trip once you know what's where.  The deli,  butcher,  and bakery are awesome.  The salad and olive bar are a great way to skip cooking!",
+                      "Setup was completely backwards. Signage for aisles were wrong. Sign on door said open till midnight but website says 24 hours. The only redeeming thing was the self checkout employee was funny."
+                    ]
+              }
+            ]
+}
